@@ -1,6 +1,9 @@
 # Safe-Car
+
 Hackathon Project
+
 This is our Hackathon Project
+
 1.	The project name is Safe Car:
 
 •	The idea behind the project: There are some accidents that has happened because people have fainted because of heat strokes. Our main idea came from two different videos that we watched. The first video was about a parent and his child went to the car and the parent remembered that he forgot something in the house. He went in and left the child in the car. He saw a movie that he liked and sat and watched the movie and his child died in the car. The second video was an employee was late for his girlfriend, so he ran to his car and started to drive while the temperature was really hot. He didn’t notice that he was losing his attention of the road because he focused his mind on meeting his girlfriend. He fainted and caused a big accident that kill three kids and two parents of other kids. Humans make mistakes and therefore there are engineers to try to reduce these problems that we face every day.   
